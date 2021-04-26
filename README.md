@@ -1,6 +1,6 @@
 
 # fake-botnet
-This is a fake botnet make for prank your friends and say it that you have a botnet. 
+This is a fake botnet made to prank your friends and say that you have one.
 
 Preview:
 
