@@ -1,7 +1,3 @@
-
-# fake-botnet
-This is a fake botnet made to prank your friends and say that you have one.
-
 Preview:
 
 ![Preview of the botnet](https://i.imgur.com/IkcN7JI.png)
